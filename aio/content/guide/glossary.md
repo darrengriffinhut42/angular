@@ -490,7 +490,7 @@ Read more about [interpolation](guide/template-syntax#interpolation) in [Templat
 
 ## Ivy
 
-Ivy is the code name for Angular's [next-generation compilation and rendering pipeline](https://blog.angular.io/a-plan-for-version-8-0-and-ivy-b3318dfc19f7).
+Ivy is the code name for Angular's [next-generation compilation and rendering pipeline](https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3).
 With the version 9 release of Angular, the new compiler and runtime instructions are used by default instead of the older compiler and runtime, known as [View Engine](#ve).
 
 See [Angular Ivy](guide/ivy).
